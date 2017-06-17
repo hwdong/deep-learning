@@ -33,7 +33,7 @@ https://medium.com/@RotekSong/tutorial-installing-cuda-8-cudnn-5-1-fc3ac216ead6
 https://medium.com/@acrosson/installing-nvidia-cuda-cudnn-tensorflow-and-keras-69bbf33dce8a
 
 ## Tutorials
-http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial (http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B) 
+http://deeplearning.stanford.edu/wiki/index.php/Main_Page (http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B) 
 
 http://www.robots.ox.ac.uk/~vgg/practicals/cnn/ 
 
