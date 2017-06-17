@@ -8,13 +8,13 @@ https://caffe2.ai/ (https://github.com/caffe2/caffe2)  , http://caffe.berkeleyvi
 
 http://torch.ch/  (https://github.com/torch) 
 
-https://developer.nvidia.com/digits (https://devblogs.nvidia.com/parallelforall/digits-deep-learning-gpu-training-system/)
-
-http://www.vlfeat.org/matconvnet/
+http://mxnet.io/  
 
 http://deeplearning.net/software/theano/ 
 
-http://mxnet.io/  
+https://developer.nvidia.com/digits (https://devblogs.nvidia.com/parallelforall/digits-deep-learning-gpu-training-system/)
+
+http://www.vlfeat.org/matconvnet/
 
 http://blog.dlib.net/2016/06/a-clean-c11-deep-learning-api.html 
 
