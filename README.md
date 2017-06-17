@@ -46,4 +46,5 @@ http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-featur
 http://blog.csdn.net/fengbingchun/article/details/50573841
 
 
-
+##  cuDNN
+cuDNN: Efficient Primitives for Deep Learning: https://arxiv.org/pdf/1410.0759.pdf
