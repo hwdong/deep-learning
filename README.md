@@ -8,6 +8,8 @@ https://caffe2.ai/ (https://github.com/caffe2/caffe2)
 
 http://torch.ch/  (https://github.com/torch) 
 
+https://developer.nvidia.com/digits 
+
 http://www.vlfeat.org/matconvnet/
 
 http://deeplearning.net/software/theano/ 
