@@ -25,8 +25,11 @@ https://github.com/Xilinx/xilinx-tiny-cnn
 ## Install deep learning tools
 
 http://www.born2data.com/2016/deeplearning_install-part1.html
+
 https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0/
+
 https://medium.com/@RotekSong/tutorial-installing-cuda-8-cudnn-5-1-fc3ac216ead6
+
 https://medium.com/@acrosson/installing-nvidia-cuda-cudnn-tensorflow-and-keras-69bbf33dce8a
 
 ## Tutorials
