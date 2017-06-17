@@ -4,7 +4,7 @@
 
 https://www.tensorflow.org/
 
-https://caffe2.ai/ (https://github.com/caffe2/caffe2)
+https://caffe2.ai/ (https://github.com/caffe2/caffe2)  , http://caffe.berkeleyvision.org/ 
 
 http://torch.ch/  (https://github.com/torch) 
 
