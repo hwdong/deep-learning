@@ -8,7 +8,7 @@ https://caffe2.ai/ (https://github.com/caffe2/caffe2)
 
 http://torch.ch/  (https://github.com/torch) 
 
-https://developer.nvidia.com/digits 
+https://developer.nvidia.com/digits (https://devblogs.nvidia.com/parallelforall/digits-deep-learning-gpu-training-system/)
 
 http://www.vlfeat.org/matconvnet/
 
