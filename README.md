@@ -22,5 +22,9 @@ https://github.com/tiny-dnn/tiny-dnn
 
 https://github.com/Xilinx/xilinx-tiny-cnn 
 
+## Tutorials
+
+http://www.robots.ox.ac.uk/~vgg/practicals/cnn/ 
+
 
 
