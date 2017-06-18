@@ -8,6 +8,8 @@ https://caffe2.ai/ (https://github.com/caffe2/caffe2)  , http://caffe.berkeleyvi
 
 http://torch.ch/  (https://github.com/torch) 
 
+[Keras/Lasagne/Blocks](https://stackoverflow.com/questions/37088838/relationship-between-keras-lasagne-block-and-theano)
+
 http://mxnet.io/  
 
 http://deeplearning.net/software/theano/ 
