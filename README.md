@@ -53,4 +53,4 @@ http://blog.csdn.net/fengbingchun/article/details/50573841
 
 
 ## training tricks
-[training tricks for DL](https://github.com/Conchylicultor/Deep-Learning-Tricks)
+[training tricks for DL](https://github.com/hwdong/deep-learning/blob/master/deep%20learning%20papers.md)
