@@ -19,6 +19,8 @@ https://developer.nvidia.com/digits (https://devblogs.nvidia.com/parallelforall/
 
 http://www.vlfeat.org/matconvnet/
 
+[TensorLayer](https://github.com/zsdonghao/tensorlayer) Deep Learning and Reinforcement Learning Library. Built on TensorFlow
+
 http://blog.dlib.net/2016/06/a-clean-c11-deep-learning-api.html 
 
 http://www.cs.cmu.edu/~ymiao/pdnntk.html 
