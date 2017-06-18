@@ -3,7 +3,7 @@
 ## traning tricks
   [Deep Learning Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) 
 
-  [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)] (http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+  [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)] (http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html) 
   
   [Tricks from Deep Neural Network](http://www.cs.umb.edu/~twang/file/tricks_from_dl.pdf)
   
