@@ -50,6 +50,8 @@ http://blog.csdn.net/fengbingchun/article/details/50573841
 
 
 ##  cuDNN
+[cuDNN User Guide](https://github.com/hwdong/deep-learning/blob/master/CUDNN_Library.pdf) 
+
 [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
 
 [CNN & cuDNN](https://piazza-resources.s3.amazonaws.com/i48o74a0lqu0/i5c0kpv2a0v1nj/10CNNcuDNN.pdf?AWSAccessKeyId=AKIAIEDNRLJ4AZKBW6HA&Expires=1497699006&Signature=iecBBe8ZnGVDJRfC%2BoolGd3gdqI%3D)
