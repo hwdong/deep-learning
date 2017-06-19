@@ -1,7 +1,9 @@
 # deep learning papers
 
 ##  key or awssome papers
-https://github.com/terryum/awesome-deep-learning-papers 
+https://github.com/terryum/awesome-deep-learning-papers  
+
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 
 ## traning tricks
   [Deep Learning Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) 
