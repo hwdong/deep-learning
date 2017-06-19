@@ -21,3 +21,7 @@ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 ## blogs
 
 http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1 
+
+## GAN
+
+[Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)
