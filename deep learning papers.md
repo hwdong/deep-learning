@@ -30,6 +30,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 ## RNN
 
+[https://github.com/kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn)
+
 [RNN(Recurrent Neural Networks)]()
 
 ## GAN
