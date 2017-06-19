@@ -44,6 +44,8 @@ https://medium.com/@acrosson/installing-nvidia-cuda-cudnn-tensorflow-and-keras-6
 ## Tutorials
 http://deeplearning.stanford.edu/wiki/index.php/Main_Page (http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B) (http://deeplearning.stanford.edu/tutorial/) 
 
+[http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+
 https://github.com/HFTrader/DeepLearningBook (https://github.com/janishar/mit-deep-learning-book-pdf) (http://www.deeplearningbook.org/)
 
 http://www.robots.ox.ac.uk/~vgg/practicals/cnn/ 
