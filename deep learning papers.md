@@ -1,6 +1,8 @@
 # deep learning papers
 
 ##  key or awssome papers
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
 https://github.com/terryum/awesome-deep-learning-papers  
 
 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
