@@ -28,6 +28,10 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 [【速读】——ResNeXt](http://www.cnblogs.com/lillylin/p/6799173.html)  
 [秒懂！何凯明的深度残差网络PPT是这样的|ICML2016 tutorial](https://www.leiphone.com/news/201608/vhqwt5eWmUsLBcnv.html)
 
+## RNN
+
+[RNN(Recurrent Neural Networks)]()
+
 ## GAN
 
 [https://github.com/nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
