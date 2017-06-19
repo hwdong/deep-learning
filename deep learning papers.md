@@ -22,7 +22,8 @@ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 
 http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1 
 
-#ResNet
+## ResNet
+
 [ReNect: Aggregated Residual Transformations for Deep Neural Networks]() [code](https://github.com/facebookresearch/ResNeXt)  [code](https://github.com/facebook/fb.resnet.torch) 
 
 ## GAN
