@@ -34,7 +34,9 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [RNN(Recurrent Neural Networks)](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) 
 
-[https://www.tensorflow.org/tutorials/recurrent](https://www.tensorflow.org/tutorials/recurrent)
+[https://www.tensorflow.org/tutorials/recurrent](https://www.tensorflow.org/tutorials/recurrent) 
+
+[如何有效的区分和理解RNN循环神经网络与递归神经网络？](https://www.zhihu.com/question/36824148)
 
 ## GAN
 
