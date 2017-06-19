@@ -36,6 +36,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [https://www.tensorflow.org/tutorials/recurrent](https://www.tensorflow.org/tutorials/recurrent) 
 
+[详解循环神经网络(Recurrent Neural Network)](http://www.jianshu.com/p/39a99c88a565)
+
 [如何有效的区分和理解RNN循环神经网络与递归神经网络？](https://www.zhihu.com/question/36824148)
 
 ## GAN
