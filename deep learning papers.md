@@ -32,7 +32,7 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [https://github.com/kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn)
 
-[RNN(Recurrent Neural Networks)]()
+[RNN(Recurrent Neural Networks)](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 ## GAN
 
