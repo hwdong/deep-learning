@@ -44,6 +44,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 ## GAN
 
+[The-GAN-World](https://github.com/savan77/The-GAN-World)
+
 [https://github.com/nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 
 [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) 
