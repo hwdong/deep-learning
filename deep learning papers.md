@@ -10,7 +10,7 @@ https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 
 ## Understanding Deep Neural Networks
 
-Visualizing and understanding convolutional networks (2014), M. Zeiler and R. Fergus [pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj607KgtN_UAhVGxbwKHegVAMIQFggrMAA&url=https%3A%2F%2Fwww.cs.nyu.edu%2F~fergus%2Fpapers%2FzeilerECCV2014.pdf&usg=AFQjCNHCPyf6bqQhOl4jEIko2zOTo-0kfg)
+Visualizing and understanding convolutional networks (2014), M. Zeiler and R. Fergus [pdf](https://arxiv.org/abs/1311.2901)
 
 [Methods for Interpreting and Understanding Deep Neural Networks](https://arxiv.org/abs/1706.07979)
 
