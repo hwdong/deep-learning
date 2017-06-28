@@ -49,6 +49,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 ## GAN
 
+[An introduction to Generative Adversarial Networks (with code in TensorFlow)](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
+
 [The-GAN-World](https://github.com/savan77/The-GAN-World)
 
 [https://github.com/nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
