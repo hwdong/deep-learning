@@ -57,6 +57,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) 
 
+[http://blog.openai.com/generative-models/](http://blog.openai.com/generative-models/)
+
 [简述生成式对抗网络](https://chenrudan.github.io/blog/2016/11/12/gan.html) [Adversarially Learned Inference](https://ishmaelbelghazi.github.io/ALI/#gan_intro)
 
 [Interactive 3D Modeling with a Generative Adversarial Network](https://128.84.21.199/abs/1706.05170)
