@@ -57,6 +57,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf) 
 
+[简述生成式对抗网络](https://chenrudan.github.io/blog/2016/11/12/gan.html) [Adversarially Learned Inference](https://ishmaelbelghazi.github.io/ALI/#gan_intro)
+
 [Interactive 3D Modeling with a Generative Adversarial Network](https://128.84.21.199/abs/1706.05170)
 
 [3D GAN - 3D Generative Adversarial Networks for Volume Generation and Classification 2017](https://meetshah1995.github.io/gan/deep-learning/tensorflow/visdom/2017/04/01/3d-generative-adverserial-networks-for-volume-classification-and-generation.html)
