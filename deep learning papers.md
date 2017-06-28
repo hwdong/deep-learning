@@ -64,3 +64,5 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 [3D GAN - 3D Generative Adversarial Networks for Volume Generation and Classification 2017](https://meetshah1995.github.io/gan/deep-learning/tensorflow/visdom/2017/04/01/3d-generative-adverserial-networks-for-volume-classification-and-generation.html)
 
 [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling 2016](http://3dgan.csail.mit.edu/)
+
+## variational autoencoders (VAEs)
