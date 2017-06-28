@@ -6,7 +6,11 @@
 
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
-https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap 
+
+## Understanding Deep Neural Networks
+
+[Methods for Interpreting and Understanding Deep Neural Networks](https://arxiv.org/abs/1706.07979)
 
 ## traning tricks
   [Deep Learning Tricks](https://github.com/Conchylicultor/Deep-Learning-Tricks) 
