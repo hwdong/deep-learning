@@ -2,7 +2,7 @@
 
 ## softwares and librarys(open source)
 
-https://www.tensorflow.org/
+[https://www.tensorflow.org/](https://www.tensorflow.org/)  [build-install_ubuntu](https://alliseesolutions.wordpress.com/2016/09/08/install-gpu-tensorflow-from-sources-w-ubuntu-16-04-and-cuda-8-0/) [install](https://www.tensorflow.org/install/)   
 
 https://caffe2.ai/ (https://github.com/caffe2/caffe2)  , http://caffe.berkeleyvision.org/ 
 
