@@ -10,6 +10,11 @@ http://caffe.berkeleyvision.org/
 
 http://torch.ch/  (https://github.com/torch) 
 
+[Keras](https://keras.io/), [Lasagne](https://github.com/Lasagne/Lasagne),[Blocks](https://github.com/mila-udem/blocks) are built on top of Theano or Tensorflow. 
+ [Relationship between Keras, Lasagne, Block and Theano?](https://stackoverflow.com/questions/37088838/relationship-between-keras-lasagne-block-and-theano) : 
+ 
+http://mxnet.io/  
+
 [Chainer: A flexible framework for neural networks](https://chainer.org/)
 
 [knet](https://github.com/denizyuret/Knet.jl)
@@ -17,11 +22,6 @@ http://torch.ch/  (https://github.com/torch)
 [Mocha](https://github.com/pluskid/Mocha.jl)
 
 [neon](https://github.com/NervanaSystems/neon)
-
-[Keras](https://keras.io/), [Lasagne](https://github.com/Lasagne/Lasagne),[Blocks](https://github.com/mila-udem/blocks) are built on top of Theano or Tensorflow. 
- [Relationship between Keras, Lasagne, Block and Theano?](https://stackoverflow.com/questions/37088838/relationship-between-keras-lasagne-block-and-theano) : 
- 
-http://mxnet.io/  
 
 http://deeplearning.net/software/theano/ 
 
