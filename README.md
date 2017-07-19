@@ -18,6 +18,8 @@ http://caffe.berkeleyvision.org/
  
 http://mxnet.io/  
 
+[CNTK](https://github.com/Microsoft/CNTK)
+
 [Chainer: A flexible framework for neural networks](https://chainer.org/)
 
 [knet](https://github.com/denizyuret/Knet.jl)
