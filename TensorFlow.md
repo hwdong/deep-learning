@@ -6,3 +6,5 @@
 [TensorFlow 白皮书](http://www.jianshu.com/p/65dc64e4c81f)
 
 [TensorFlow and Deep Learning Tutorials](https://github.com/wagamamaz/tensorflow-tutorial)
+
+[TensorFlow Tutorial: 10 minutes Practical TensorFlow lesson for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/) 
