@@ -8,7 +8,8 @@ https://caffe2.ai/ (https://github.com/caffe2/caffe2)
 
 http://caffe.berkeleyvision.org/ 
 
-http://torch.ch/  (https://github.com/torch) 
+[http://pytorch.org/]()
+[http://torch.ch/]  (https://github.com/torch) 
 
 [Keras](https://keras.io/), [Lasagne](https://github.com/Lasagne/Lasagne),[Blocks](https://github.com/mila-udem/blocks) are built on top of Theano or Tensorflow. 
  [Relationship between Keras, Lasagne, Block and Theano?](https://stackoverflow.com/questions/37088838/relationship-between-keras-lasagne-block-and-theano) : 
