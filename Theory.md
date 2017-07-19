@@ -1,4 +1,6 @@
-# Theory
+# Back propagation
+
+[CHAPTER 2How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
