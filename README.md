@@ -26,6 +26,10 @@ http://mxnet.io/
 
 [neon](https://github.com/NervanaSystems/neon)
 
+[MatConvNet](http://www.vlfeat.org/matconvnet/)
+
+[deeplearning4j](https://deeplearning4j.org/)
+
 http://deeplearning.net/software/theano/ 
 
 https://developer.nvidia.com/digits (https://devblogs.nvidia.com/parallelforall/digits-deep-learning-gpu-training-system/)
