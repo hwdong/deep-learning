@@ -33,6 +33,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
 
+[深度神经网络中深度究竟带来了什么？](http://www.msra.cn/zh-cn/news/blogs/2016/12/deep-neural-network-20161212.aspx)
+
 [UC Berkeley最新论文：残差神经网络的可视化](http://www.jcxg.net/a/998064.html)
 
 [ReNect: Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) [code](https://github.com/facebookresearch/ResNeXt)  [code](https://github.com/facebook/fb.resnet.torch) 
@@ -40,8 +42,6 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 [Dual Path Networks](https://arxiv.org/pdf/1707.01629.pdf)
 
 [【速读】——ResNeXt](http://www.cnblogs.com/lillylin/p/6799173.html)  
-[秒懂！何凯明的深度残差网络PPT是这样的|ICML2016 tutorial](https://www.leiphone.com/news/201608/vhqwt5eWmUsLBcnv.html)
-
 
 
 ## RNN
