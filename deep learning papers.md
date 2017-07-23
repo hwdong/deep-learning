@@ -35,6 +35,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [深度神经网络中深度究竟带来了什么？](http://www.msra.cn/zh-cn/news/blogs/2016/12/deep-neural-network-20161212.aspx)
 
+[通往无限层神经网络 (1)：对于残差网络（Residual Network）的一种理解方法，与深层网络的训练](https://zhuanlan.zhihu.com/p/26595791)
+
 [UC Berkeley最新论文：残差神经网络的可视化](http://www.jcxg.net/a/998064.html)
 
 [ReNect: Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) [code](https://github.com/facebookresearch/ResNeXt)  [code](https://github.com/facebook/fb.resnet.torch) 
