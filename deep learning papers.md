@@ -46,6 +46,7 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 [【速读】——ResNeXt](http://www.cnblogs.com/lillylin/p/6799173.html)  
 
 ### Code For RenNet:
+[Re-implement Kaiming He's deep residual networks in tensorflow. Can be trained with cifar10.](https://github.com/wenxinxu/resnet-in-tensorflow)
 [ResNet model in TensorFlow](https://github.com/ry/tensorflow-resnet)  
 [ResNet Implementation in TensorFlow](https://github.com/xuyuwei/resnet-tf)
 
