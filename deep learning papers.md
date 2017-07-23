@@ -29,11 +29,17 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 ## ResNet
 
+[致敬ImageNet】ResNet 6大变体：何恺明,孙剑,颜水成引领计算机视觉这两年](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652001197&idx=1&sn=4239318655806de8ed807d44cdb1b99c) 本文部分内容来自：[An Overview of ResNet and its Variants](https://medium.com/towards-data-science/an-overview-of-resnet-and-its-variants-5281e2f56035)
+
+[Residual Networks Behave Like Ensembles of Relatively Shallow Networks](https://arxiv.org/pdf/1605.06431.pdf)
+
 [ReNect: Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) [code](https://github.com/facebookresearch/ResNeXt)  [code](https://github.com/facebook/fb.resnet.torch)  
+
+
 [【速读】——ResNeXt](http://www.cnblogs.com/lillylin/p/6799173.html)  
 [秒懂！何凯明的深度残差网络PPT是这样的|ICML2016 tutorial](https://www.leiphone.com/news/201608/vhqwt5eWmUsLBcnv.html)
 
-[致敬ImageNet】ResNet 6大变体：何恺明,孙剑,颜水成引领计算机视觉这两年](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652001197&idx=1&sn=4239318655806de8ed807d44cdb1b99c) 本文部分内容来自：[An Overview of ResNet and its Variants](https://medium.com/towards-data-science/an-overview-of-resnet-and-its-variants-5281e2f56035)
+
 
 ## RNN
 
