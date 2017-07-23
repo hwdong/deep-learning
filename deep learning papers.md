@@ -33,6 +33,8 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 [【速读】——ResNeXt](http://www.cnblogs.com/lillylin/p/6799173.html)  
 [秒懂！何凯明的深度残差网络PPT是这样的|ICML2016 tutorial](https://www.leiphone.com/news/201608/vhqwt5eWmUsLBcnv.html)
 
+[致敬ImageNet】ResNet 6大变体：何恺明,孙剑,颜水成引领计算机视觉这两年](https://www.sohu.com/a/159141197_473283)
+
 ## RNN
 
 [https://github.com/kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn)
