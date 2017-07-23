@@ -52,6 +52,10 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 
 [ResNets, HighwayNets, and DenseNets, Oh My!](https://chatbotslife.com/resnets-highwaynets-and-densenets-oh-my-9bb15918ee32)
 
+[ResNet原理及其在TF-Slim中的实现](http://www.jianshu.com/p/3af06422c768)
+
+[TensorFlow实现ResNet（ResNet 152网络结构的forward耗时检测）](http://blog.csdn.net/superman_xxx/article/details/65452735)
+
 [caffe implementation](https://github.com/KaimingHe/deep-residual-networks)
 
 [Training and investigating Residual Nets](http://torch.ch/blog/2016/02/04/resnets.html)
