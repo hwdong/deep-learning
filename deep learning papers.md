@@ -51,7 +51,10 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 [ResNet Implementation in TensorFlow](https://github.com/xuyuwei/resnet-tf)
 
 [caffe implementation](https://github.com/KaimingHe/deep-residual-networks)
+
 [Training and investigating Residual Nets](http://torch.ch/blog/2016/02/04/resnets.html)
+
+[Residual networks implementation using Keras-1.0 functional API](https://github.com/raghakot/keras-resnet)
 
 
 ## RNN
