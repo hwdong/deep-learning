@@ -50,6 +50,9 @@ http://weibo.com/fly51fly?refer_flag=1005055013_&is_hot=1
 [ResNet model in TensorFlow](https://github.com/ry/tensorflow-resnet)  
 [ResNet Implementation in TensorFlow](https://github.com/xuyuwei/resnet-tf)
 
+[caffe implementation](https://github.com/KaimingHe/deep-residual-networks)
+[Training and investigating Residual Nets](http://torch.ch/blog/2016/02/04/resnets.html)
+
 
 ## RNN
 
