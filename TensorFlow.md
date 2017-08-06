@@ -13,7 +13,9 @@
 
 
 [Install tensorflow](https://www.tensorflow.org/install/install_windows):
+````
    pip3 install --upgrade tensorflow-gpu
    pip3 install pandas
    pip3 install scikit-image
    pip3 install sklearn
+```
