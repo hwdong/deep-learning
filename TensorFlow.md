@@ -10,3 +10,10 @@
 [https://www.tensorflow.org/get_started/](https://www.tensorflow.org/get_started/)
 
 [TensorFlow Tutorial: 10 minutes Practical TensorFlow lesson for quick learners](http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/) 
+
+
+[Install tensorflow](https://www.tensorflow.org/install/install_windows):
+   pip3 install --upgrade tensorflow-gpu
+   pip3 install pandas
+   pip3 install scikit-image
+   pip3 install sklearn
