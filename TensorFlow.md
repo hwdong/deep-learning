@@ -13,9 +13,11 @@
 
 
 [Install tensorflow](https://www.tensorflow.org/install/install_windows):
+[windows binarys](http://www.lfd.uci.edu/~gohlke/pythonlibs/?_t=t)
 ````
    pip3 install --upgrade tensorflow-gpu
    pip3 install pandas
-   pip3 install scikit-image
-   pip3 install sklearn
+   pip3 install scikit-image 或 pip3 install scikit_image-0.13.0-cp36-cp36m-win_amd64.whl
+   pip3 install sklearn
+   pip3 install scipy
 ```
