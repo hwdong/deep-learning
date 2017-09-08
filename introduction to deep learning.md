@@ -11,6 +11,8 @@
 
 [A Brief Introduction to Deep Learning](https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/YY-Deep%20Learning.pdf) Yangyan Li
 
+[A Deep Learning Tutorial: From Perceptrons to Deep Networks](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) 2015
+
 [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 [Introduction to Deep Learning  Yingyu Liang](https://www.cs.princeton.edu/courses/archive/spring16/cos495/) spring,2016
