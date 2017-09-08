@@ -1,4 +1,5 @@
 
+[http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
 
 [introduction to deep learning](https://www.youtube.com/watch?v=0jCr2ioGNG0)
 
