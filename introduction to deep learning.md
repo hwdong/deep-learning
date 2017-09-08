@@ -1,5 +1,5 @@
 
-[introduction to deep learning](https://www.youtube.com/watch?v=0jCr2ioGNG0)
+[introduction to deep learning](https://www.youtube.com/watch?v=0jCr2ioGNG0) ,Sep 6, 2017
 
 [ML Lecture 6:Brief Introduction of Deep Learning](https://www.youtube.com/watch?v=Dr-WRlEFefw)
 
