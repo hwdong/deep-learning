@@ -13,3 +13,5 @@
 [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 [Introduction to Deep Learning  Yingyu Liang](https://www.cs.princeton.edu/courses/archive/spring16/cos495/) spring,2016
+
+[ELEG5491: Introduction to Deep Learning](http://dl.ee.cuhk.edu.hk/) by xiaogang wang
